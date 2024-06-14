@@ -1,3 +1,3 @@
-En este github encontramos el código correspondiente al trabajo de fin de grado adjunto. 
-Además, encontramos los modelos ya entrenados para facilitar la prueba de estos. Para mejor comprensión del código leer el trabajo. 
-Para cualquier duda o sugerencia contactar conmigo a traves de adriancandilsalas94@gmail.com
+En el repositorio de GitHub proporcionado, encontrará el código correspondiente al trabajo de fin de grado adjunto, así como los modelos ya entrenados para facilitar su prueba. Para una mejor comprensión del código, se recomienda leer el documento del trabajo. Para cualquier consulta o sugerencia, no dude en ponerse en contacto a través del correo electrónico: adriancandilsalas94@gmail.com.
+
+In the provided GitHub repository, you will find the code corresponding to the attached final degree project, as well as the pre-trained models to facilitate testing. For a better understanding of the code, it is recommended to read the project document. For any questions or suggestions, please feel free to contact me at adriancandilsalas94@gmail.com.
