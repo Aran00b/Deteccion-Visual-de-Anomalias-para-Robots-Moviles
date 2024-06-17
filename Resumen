@@ -1,10 +1,10 @@
 En este trabajo se realiza un estudio sobre una metodología aplicada al reconocimiento de anomalías mediante inteligencia artificial en las imágenes que toman las cámaras de robots móviles. 
 El documento presenta el desarrollo del estudio de esta metodología introduciendo previamente los conceptos necesarios para su entendimiento. 
-He tratado de realizar el diseño y la implementación de varios de los métodos propuestos.
+He realizado el diseño y la implementación de varios de los métodos propuestos.
 El código se encuentra en GitHub. La arquitectura consta de dos partes combinadas que resultan en la clasificación de una imagen en normal o anómala. 
 
 
 In this work, a study is carried out on a methodology applied to the recognition of anomalies using artificial intelligence in the images taken by mobile robot cameras. 
 The document presents the development of the study of this methodology, previously introducing the concepts necessary for its understanding. 
-I have tried to carry out the design and implementation of several of the proposed methods. The code is located on GitHub. 
+I carried out the design and implementation of several of the proposed methods. The code is located on GitHub. 
 The arquitechture consists of two combined parts that result in the classification of an image as normal or abnormal.
